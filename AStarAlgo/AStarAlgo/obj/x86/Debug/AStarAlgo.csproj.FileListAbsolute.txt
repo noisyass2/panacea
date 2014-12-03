@@ -1,0 +1,8 @@
+d:\users\p004785\documents\visual studio 2010\Projects\AStarAlgo\AStarAlgo\bin\Debug\AStarAlgo.exe
+d:\users\p004785\documents\visual studio 2010\Projects\AStarAlgo\AStarAlgo\bin\Debug\AStarAlgo.pdb
+d:\users\p004785\documents\visual studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarAlgo.Form1.resources
+d:\users\p004785\documents\visual studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarAlgo.Properties.Resources.resources
+d:\users\p004785\documents\visual studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarAlgo.exe
+d:\users\p004785\documents\visual studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarAlgo.pdb
+D:\Users\P004785\documents\visual studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarAlgo.csprojResolveAssemblyReference.cache
+D:\Users\P004785\documents\visual studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarAlgo.csproj.GenerateResource.Cache

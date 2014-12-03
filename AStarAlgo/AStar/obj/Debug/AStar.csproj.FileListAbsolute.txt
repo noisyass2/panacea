@@ -1,0 +1,5 @@
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStar\bin\Debug\AStar.dll
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStar\bin\Debug\AStar.pdb
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStar\obj\Debug\AStar.dll
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStar\obj\Debug\AStar.pdb
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\bin\Debug\AStarAlgo.exe
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\bin\Debug\AStarAlgo.pdb
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\bin\Debug\AStar.dll
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\bin\Debug\AStar.pdb
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarWinForm.csprojResolveAssemblyReference.cache
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStar.Form1.resources
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStar.Properties.Resources.resources
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarWinForm.csproj.GenerateResource.Cache
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarAlgo.exe
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStarAlgo.pdb
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStar.HexMap.resources
+D:\Users\P004785\Documents\Visual Studio 2010\Projects\AStarAlgo\AStarAlgo\obj\x86\Debug\AStar.Form2.resources
