@@ -1,0 +1,4 @@
+D:\Projz\Panacea\Panacea\bin\Debug\Panacea.dll
+D:\Projz\Panacea\Panacea\bin\Debug\Panacea.pdb
+D:\Projz\Panacea\Panacea\obj\Debug\Panacea.dll
+D:\Projz\Panacea\Panacea\obj\Debug\Panacea.pdb

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bfb18e86-7b40-4c0f-9e3d-e39e0b89dfcb" name="P004785@CDCDSGH426R5BR 2014-12-03 17:32:33" runUser="MCP\P004785" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e514b1e4-3e3e-4abd-9dae-d21b6762350c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="D:\Projz\Panacea\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="P004785_CDCDSGH426R5BR 2014-12-03 17_32_33">
+      <DeploymentItem filename="D:\Projz\Panacea\Panacea\bin\Debug\Panacea.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-12-03T17:32:33.5694470+08:00" queuing="2014-12-03T17:32:33.7414642+08:00" start="2014-12-03T17:32:33.7604661+08:00" finish="2014-12-03T17:32:33.9974898+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestShuffle" storage="d:\projz\panacea\panacea.tests\bin\debug\panacea.tests.dll" id="b69102e2-5606-5f46-17c6-fe98f5b32fac">
+      <Execution id="d4314641-0ec8-4d49-a6c4-adbf89817c41" />
+      <TestMethod codeBase="D:/Projz/Panacea/Panacea.Tests/bin/Debug/Panacea.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Panacea.Tests.CoreTests, Panacea.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestShuffle" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b69102e2-5606-5f46-17c6-fe98f5b32fac" executionId="d4314641-0ec8-4d49-a6c4-adbf89817c41" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d4314641-0ec8-4d49-a6c4-adbf89817c41" testId="b69102e2-5606-5f46-17c6-fe98f5b32fac" testName="TestShuffle" computerName="CDCDSGH426R5BR" duration="00:00:00.0333992" startTime="2014-12-03T17:32:33.7654666+08:00" endTime="2014-12-03T17:32:33.9474848+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4314641-0ec8-4d49-a6c4-adbf89817c41">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Panacea.Tests.CoreTests.TestShuffle threw exception: 
+System.IO.FileNotFoundException: Could not find file 'D:\wordList.txt'.</Message>
+          <StackTrace>    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at Panacea.Core.LoadFromFile() in D:\Projz\Panacea\Panacea\Core.cs:line 68
+   at Panacea.Core..ctor() in D:\Projz\Panacea\Panacea\Core.cs:line 16
+   at Panacea.Tests.CoreTests.TestShuffle() in D:\Projz\Panacea\Panacea.Tests\CoreTests.cs:line 16
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

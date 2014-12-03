@@ -1,0 +1,7 @@
+D:\Projz\Panacea\Panacea.Tests\bin\Debug\Panacea.Tests.dll
+D:\Projz\Panacea\Panacea.Tests\bin\Debug\Panacea.Tests.pdb
+D:\Projz\Panacea\Panacea.Tests\bin\Debug\Panacea.dll
+D:\Projz\Panacea\Panacea.Tests\bin\Debug\Panacea.pdb
+D:\Projz\Panacea\Panacea.Tests\obj\Debug\Panacea.Tests.csprojResolveAssemblyReference.cache
+D:\Projz\Panacea\Panacea.Tests\obj\Debug\Panacea.Tests.dll
+D:\Projz\Panacea\Panacea.Tests\obj\Debug\Panacea.Tests.pdb

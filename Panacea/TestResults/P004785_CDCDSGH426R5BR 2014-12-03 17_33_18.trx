@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6fbf60e4-ef9e-47f5-bd8f-c2aa7ca85688" name="P004785@CDCDSGH426R5BR 2014-12-03 17:33:18" runUser="MCP\P004785" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e514b1e4-3e3e-4abd-9dae-d21b6762350c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="D:\Projz\Panacea\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="P004785_CDCDSGH426R5BR 2014-12-03 17_33_18">
+      <DeploymentItem filename="D:\Projz\Panacea\Panacea\bin\Debug\Panacea.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-12-03T17:33:18.8729769+08:00" queuing="2014-12-03T17:33:18.9049801+08:00" start="2014-12-03T17:33:18.9099806+08:00" finish="2014-12-03T17:33:19.0709967+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestShuffle" storage="d:\projz\panacea\panacea.tests\bin\debug\panacea.tests.dll" id="b69102e2-5606-5f46-17c6-fe98f5b32fac">
+      <Execution id="c4b21f75-60f6-4064-af23-d563b7676a06" />
+      <TestMethod codeBase="D:/Projz/Panacea/Panacea.Tests/bin/Debug/Panacea.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Panacea.Tests.CoreTests, Panacea.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestShuffle" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b69102e2-5606-5f46-17c6-fe98f5b32fac" executionId="c4b21f75-60f6-4064-af23-d563b7676a06" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c4b21f75-60f6-4064-af23-d563b7676a06" testId="b69102e2-5606-5f46-17c6-fe98f5b32fac" testName="TestShuffle" computerName="CDCDSGH426R5BR" duration="00:00:00.0297158" startTime="2014-12-03T17:33:18.9119808+08:00" endTime="2014-12-03T17:33:19.0619958+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4b21f75-60f6-4064-af23-d563b7676a06">
+      <Output>
+        <DebugTrace>System.Collections.Generic.List`1[System.Char]
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
